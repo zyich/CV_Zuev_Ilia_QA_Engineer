@@ -24,7 +24,7 @@
 - В течение года был в пуле основных тестировщиков IKEA для тестирования новой фичи в приложении [(скрин)](https://drive.google.com/file/d/1o7eyz0Ze6YGjrWUyX_fPT-pBwojHxVzc/view?usp=sharing)
 - Получил статус проверенного тестировщика(proven) [(скрин)](https://drive.google.com/file/d/1XzRSZ3x2lcGSWpxwKsy7En0Y8zsJSQPi/view?usp=drive_link)
 - При Gambling тестированиях получал дополнительные бонусы(денежные) за качественную работу от компании William Hill [(скрин)](https://docs.google.com/document/d/1rXVtrmEzcaH0hSX0br_XRrS-uX-o4JL_tMyhslOFLU4/edit?usp=sharing)
-- Закончил академию Utest(для успешного завершения тестировал реальные продукты и соревновался в скорости нахождения багов с другими тестировщиками)
+- Закончил академию Utest(для успешного завершения тестировал реальные продукты и соревновался в скорости нахождения багов с другими тестировщиками(93 участника - занял 4 место) [(скрин)](https://drive.google.com/file/d/1dzHnyIMJZmh091X10skjH0MbiC6OmEbS/view?usp=sharing)
 
 ### АО "ИнфоТех"
 **Младший разработчик**  
