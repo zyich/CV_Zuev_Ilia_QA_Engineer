@@ -12,7 +12,7 @@
 ### Utest
 #### https://www.utest.com/
 **QA Engineer**  
-Январь 2024 — настоящее время
+Апрель 2023 — настоящее время
 ###### Обязанности:
 - Мобильное и веб-тестирование
 - Cоздание баг-репортов
@@ -22,7 +22,7 @@
 - Тестирование локализации, интерфейсов, платежных систем
 - Репродукция багов
 ###### Достижения:
-- Принял участие более чем в 100 тестовых циклах для крупных и средних компаний: IKEA, Adidas, Meta, Skyscanner, Inditex, Coinbase, PokerStars, Farfetch, BBVA, Orange, GoCardless и др. [(Ссылка на скрин)](https://drive.google.com/file/d/1XzRSZ3x2lcGSWpxwKsy7En0Y8zsJSQPi/view?usp=sharing) + [(скрин)](https://drive.google.com/file/d/1RQToNeRB0smHEoJBua_uMJyJhj9Wqg6J/view?usp=sharing)
+- Принял участие более чем в 120 тестовых циклах для крупных и средних компаний: IKEA, Adidas, Meta, Skyscanner, Inditex, Coinbase, PokerStars, Farfetch, BBVA, Orange, GoCardless и др. [(Ссылка на скрин)](https://drive.google.com/file/d/1XzRSZ3x2lcGSWpxwKsy7En0Y8zsJSQPi/view?usp=sharing) + [(скрин)](https://drive.google.com/file/d/1RQToNeRB0smHEoJBua_uMJyJhj9Wqg6J/view?usp=sharing)
 - В течение года был в пуле основных тестировщиков IKEA для тестирования новой фичи в приложении [(скрин)](https://drive.google.com/file/d/1o7eyz0Ze6YGjrWUyX_fPT-pBwojHxVzc/view?usp=sharing)
 - Получил статус проверенного тестировщика(proven) [(скрин)](https://drive.google.com/file/d/1XzRSZ3x2lcGSWpxwKsy7En0Y8zsJSQPi/view?usp=drive_link)
 - При Gambling тестированиях получал дополнительные бонусы(денежные) за качественную работу от компании William Hill [(скрин)](https://docs.google.com/document/d/1rXVtrmEzcaH0hSX0br_XRrS-uX-o4JL_tMyhslOFLU4/edit?usp=sharing)
@@ -32,7 +32,7 @@
 ### TestLio
 #### https://www.Testlio.com/ 
 **QA Engineer**  
-Февраль 2024 — настоящее время
+Май 2023 — настоящее время
 ###### Обязанности:
 - Мобильное и веб-тестирование
 - Функциональное тестирование
